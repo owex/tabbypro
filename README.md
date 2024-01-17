@@ -21,4 +21,5 @@ Thank you for being a part of the TabbyPro community! Your feedback, questions, 
 
 # Support TabbyPro
 Help support the development of tabby.pro by donating or joining as a member. 
+
  <a href="https://www.buymeacoffee.com/owenr"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=owenr&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
